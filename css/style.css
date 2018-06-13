@@ -1,7 +1,6 @@
 body {
   background-color: #abc5f1;
 }
-
 .container {
   width: 40%;
   margin: 20px auto;
@@ -10,4 +9,10 @@ body {
 }
 ul li {
   list-style-type: none;
+}
+.removed {
+     color: #747474;
+}
+.removed label {
+     text-decoration: line-through;
 }
