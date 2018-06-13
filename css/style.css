@@ -1,0 +1,13 @@
+body {
+  background-color: #abc5f1;
+}
+
+.container {
+  width: 40%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+}
+ul li {
+  list-style-type: none;
+}

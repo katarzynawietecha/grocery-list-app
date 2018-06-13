@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+  <title>My first vue app!</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <div id="app" class="container"> <!--cały kod aplikacji Vue-->
+    <h2>{{ title }}</h2>
+    <ul>
+      <li>{{ items[0] }}</li>
+      <li>{{ items[1] }}</li>
+    </ul>
+  </div>
+  <div class="footer">
+    <hr/>
+    <em>Zmień nazwę listy zakupów</em>
+    <input v-model="title"/>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.3/vue.js"></script>
+  <script src="js/app.js" type="text/javascript"></script>
+</body>
