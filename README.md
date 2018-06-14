@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# grocery-list-app
 
-You can use the [editor on GitHub](https://github.com/wietecha-mrzyglod/Grocery-List-App-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Basic informations**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is a shopping list. It allows you to create a list of things to buy and name the list as you want.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**License**
 
-```markdown
-Syntax highlighted code block
+This project is released under the MIT License.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Demo**
 
-1. Numbered
-2. List
+https://wietecha-mrzyglod.github.io/grocery-list-app/
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Technologies Used**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wietecha-mrzyglod/Grocery-List-App-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* HTML,
+* CSS,
+* JavaScript,
+* Vue.js.
